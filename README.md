@@ -1,4 +1,4 @@
-# Responsive_menu1
+# Hamburger_menu1
 Hamburger menu to include in website
 
 This hamburger menu can be included in a website or as a menu in a custom wordpress theme for example.
